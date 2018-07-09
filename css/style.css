@@ -1090,6 +1090,10 @@ Media queries
 		border-bottom: 1px solid #000000;
 	}
 
+	.navbar-logo {
+		width: 200px;
+	}
+
 	section.featured {
 		padding-top: 80px;
 	}
