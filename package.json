@@ -1,16 +1,19 @@
 {
-  "name": "jody-anderson",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "connect": "^3.6.6",
-    "serve-static": "^1.13.2"
-  }
+    "title": "Logo Nav",
+    "name": "startbootstrap-logo-nav",
+    "version": "4.1.1",
+    "description": "A Bootstrap template with a logo in the navbar",
+    "license": "MIT",
+    "author": "Weston Jones",
+    "contributors": [
+        "Weston Jones"
+    ],
+    "dependencies": {
+        "bootstrap": "4.1.1",
+        "jquery": "3.3.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.24.5",
+        "gulp": "^3.9.1"
+    }
 }
